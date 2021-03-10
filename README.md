@@ -1,9 +1,6 @@
 # fb_effect_template
 
-AR effect for _____.
-
-[Insert screencapture here]
-![alt text](https://github.com/themill/hbo_mother/blob/master/resources/image.png?raw=true)
+AR effect for Creative Technology Week (March 2021).
 
 # Features 
 `Particle System`,  `Segmentation` ,   `Face Retouching`.
@@ -15,4 +12,4 @@ Capture to start effect.
 Currently in development.
 
 # Spark (IG)
-Built using Spark v100.
+Built using Spark v106.
