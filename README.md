@@ -1,15 +1,11 @@
-# fb_effect_template
+# Send Me to Space AR Effect
 
-AR effect for Creative Technology Week (March 2021).
-
-# Features 
-`Particle System`,  `Segmentation` ,   `Face Retouching`.
+AR effect for Creative Technology Week 2021. For this effect, we crowd sourced ideas from our Instagram followers. 
+The brief was broad. We invited big-thinking and received tons of incredible ideas; from a virtual tarot deck, to an effect that would select which snack to munch whilst attending the festival. 
+We put a short-list of top ideas to a public vote and the winner was “Send me to space!” which just so happened to match our galaxy-vibe of the festival graphics!
 
 # Instructions 
-Capture to start effect.
+Nod your head to blast off into space! 
 
-# Notes
-Currently in development.
-
-# Spark (IG)
-Built using Spark v106.
+# Version
+Built using SparkAR v108.
