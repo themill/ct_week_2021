@@ -8,7 +8,7 @@ The brief was broad. We invited big-thinking and received tons of incredible ide
 
 We put a short-list of top ideas to a public vote and the winner was “Send me to space!” which just so happened to match our galaxy-vibe of the festival graphics!
 
-//![alt text](ct_week_capture_1)
+//![alt text](ct_week_capture_1.gif)
 # Instructions 
 Nod your head to blast off into space! 
 
